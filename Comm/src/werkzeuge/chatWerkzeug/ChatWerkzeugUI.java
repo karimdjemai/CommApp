@@ -46,7 +46,7 @@ public class ChatWerkzeugUI
         JPanel p = new JPanel();
         p.setBackground(Color.GREEN);
         p.setLayout(new BorderLayout());
-        
+         
         p.add(_scroll, BorderLayout.CENTER);
         
         _contentPanel = p;
