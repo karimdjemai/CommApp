@@ -31,4 +31,4 @@ public class ChatWerkzeug
         return _gegenUeber;
     }
 }
->>>>>>> branch 'master' of https://github.com/karimdjemai/CommApp
+//>>>>>>> branch 'master' of https://github.com/karimdjemai/CommApp
