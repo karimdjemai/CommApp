@@ -1,6 +1,5 @@
 package werkzeuge.kontextWerkzeug;
 
-<<<<<<< HEAD
 import java.util.Observable;
 import java.util.Observer;
 
@@ -195,7 +194,6 @@ public class KontextWerkzeug
     private void setZurueckButton()
     {
         _ui.setZurueckButton(_zurueckButtonVorhanden);
->>>>>>> branch 'master' of https://github.com/karimdjemai/CommApp
     }
 
 }

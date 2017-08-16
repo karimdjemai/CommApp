@@ -312,6 +312,5 @@ public class KontextWerkzeugUI
     public JButton getZurueckButton()
     {
         return _zurueckButton;
->>>>>>> branch 'master' of https://github.com/karimdjemai/CommApp
     }
 }

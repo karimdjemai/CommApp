@@ -38,4 +38,3 @@ public class ChatWerkzeugUI
         return _contentPanel;
     }
 }
->>>>>>> branch 'master' of https://github.com/karimdjemai/CommApp
