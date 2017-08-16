@@ -1,6 +1,6 @@
 package startUp;
 
-<<<<<<< HEAD
+
 import werkzeuge.kontextWerkzeug.KontextWerkzeug;
 
 public class StartUp
@@ -22,7 +22,6 @@ public class StartUp
     {
        
        new KontextWerkzeug(new LadeServiceDummyImpl()); 
->>>>>>> branch 'master' of https://github.com/karimdjemai/CommApp
 
     }
 
