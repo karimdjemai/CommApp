@@ -95,6 +95,7 @@ public class KontextWerkzeugUI
         JFrame f = new JFrame();
         f.setTitle(TITEL);
         f.setSize(BREITE, HOEHE);
+        f.setResizable(false);
         f.setContentPane(_hauptPanel);
         _frame = f;
     }
